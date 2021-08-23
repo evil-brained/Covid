@@ -1,0 +1,44 @@
+h1
+{
+
+	color:orangered;
+	margin: auto;
+	font-family:algerian;
+	background:lavender;
+    border: green 10px solid;
+    padding: 10px;
+
+}
+
+
+a:active{
+	color: green;
+}
+a:visited
+{
+	color:darkmagenta;
+}
+p{
+	line-height: 1.9em;
+	color:darkblue;
+}
+.c1{
+	background-color:lightyellow;
+	border:green 10px solid;
+	padding: 10px;
+}
+.c2{
+	background-color: lightyellow;
+	border: green 10px solid;
+	padding: 10px;
+}
+body
+{
+	background: darkgrey;
+
+}
+.container
+{
+	width: 900px;
+	margin: auto;
+}
